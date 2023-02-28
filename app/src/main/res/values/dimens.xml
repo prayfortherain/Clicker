@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="who">40sp</dimen>
+    <dimen name="size_colvo4">60sp</dimen>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="chinchilla">шиншилл</string>
+    <string name="add_chinchilla">добавить шиншиллу</string>
+    <string name="reset">сбросить кол-во шиншилл</string>
+    <string name="a_lot_of_chin">добавить очень много шиншилл</string>
+</resources>
